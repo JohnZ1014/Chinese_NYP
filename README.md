@@ -1,17 +1,16 @@
 # Chinese_NYP 
 ChineseNYP: Interactive Facial Style Transfer System
-Overview
 
+Overview
 ChineseNYP is an interactive facial style transfer system inspired by Yangliuqing New Year Prints, a traditional Chinese folk art form.
 The system captures real-time facial images via a camera, performs facial landmark detection and tracking, and generates stylized New Year Print–style portraits that preserve facial identity and spatial consistency.
 
-The system integrates TouchDesigner, MediaPipe, and ComfyUI, and leverages Stable Diffusion, LoRA, ControlNet, and ResNet to achieve controllable, real-time facial style transfer with face tracking.
+The system integrates TouchDesigner, MediaPipe, and ComfyUI, and leverages Stable Diffusion, LoRA, ControlNet, and ResNet to achieve controllable, real-time facial style transfer with face tracking. Due to limited space, please download the file from Google Drive: https://drive.google.com/drive/folders/1-HUz4OBxROPJmSnfGcNyqNVkWGkr4e51?usp=sharing
 
 System Requirements
+
 Hardware
-
 A 1080p USB camera
-
 GPU with sufficient VRAM to run Stable Diffusion (e.g., NVIDIA RTX 3080)
 
 Software
